@@ -1,0 +1,2 @@
+rootProject.name='MyFiles'
+include ':app'
